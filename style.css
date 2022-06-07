@@ -1,0 +1,23 @@
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    position: absolute;
+    left: 35%;
+    border: black;
+    border-style: dashed; padding: 1%;
+    border-radius: 30%;
+}
+
+.Breeds {
+    position: absolute;
+    top: 25%;
+    left: 10%;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+body {
+    background-image: url('/SoftUni/Cat_Site/Pictures/Backgroundd.webp');
+}
